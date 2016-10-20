@@ -18,6 +18,6 @@ User Stories
     
 ### Shop-side
 
-  * As a shop I want to see my coffee orders
+  * As a shop I want to be able to see my current coffee orders.
 
 ### API/ Database
