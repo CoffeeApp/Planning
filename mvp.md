@@ -12,7 +12,7 @@ Data for phase 1 to be sent and received in the following structure.
     {
       "type": "flat white",
       "qty": 1,
-      "milk": "trim milk",
+      "milk": "trim",
       "sugar": 1
     },
     {
@@ -69,7 +69,7 @@ Prepare to receive, send and store coffee orders in the following data structure
     {
       "type": "flat white",
       "qty": 1,
-      "milk": "trim milk",
+      "milk": "trim",
       "sugar": 1
     },
     {
