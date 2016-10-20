@@ -18,8 +18,8 @@ Data for phase 1 to be sent and received in the following structure.
     {
     "type": "americano",
     "qty": 2,
-    "milk: "soy",
-    "sugar: 0
+    "milk": "soy",
+    "sugar": 0
     }    
   ],
   "totalprice": 6.00,
