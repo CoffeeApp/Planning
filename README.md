@@ -21,7 +21,7 @@ Pull requests approved by <name>
 Features should be built on branches and the merged via pull request.
 Team Roles / Accountabilities
 
-### Zombee will: 
+### Scrum master will: 
 
 Organise and enforce mandatory fun times at 3pm.
 Approve pull requests.
