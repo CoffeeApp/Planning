@@ -19,20 +19,20 @@ Need a start button with a 2 minute timer per coffee/ ready button / collected.
 
 ### API Database
 ```js
-Coffee type: [
-  Flat white,
-  Long Black,
-  Latte
+coffee-type: [
+  'Flat white',
+  'Long Black',
+  'Latte'
   ],
-Milk: [
-  Full Milk (default),
-  Trim Milk,
-  Soy Milk
+milk: [
+  'Full Milk' (default),
+  'Trim Milk',
+  'Soy Milk'
   ]
-Sugar: [
-  0 sugar (default), 
-  1 sugar,
-  2 sugar,
-  3 sugar
+sugar: [
+  '0 sugar' (default), 
+  '1 sugar',
+  '2 sugar',
+  '3 sugar'
   ]
 ```
