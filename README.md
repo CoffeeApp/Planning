@@ -46,3 +46,18 @@ Mandatory fun at 3.
 
 [Technologies](technologies.md)
 ---------------------
+
+[MVP](mvp.md)
+---------------------
+
+[Wireframes](wireframes.md)
+------------
+
+[Stretches](stretches.md)
+-----------
+
+[Pitch Subjects](pitchSubjects.md)
+----------------
+
+[Team Rules](teamRules.md)
+------------
