@@ -1,6 +1,23 @@
 MVP
 ===
 
+### Phase 1 Objective - send one coffee order from customer to shop via api database
+
+Data for phase 1 to be sent and received in the following structure.
+
+```js
+"order": {
+  "shop": "fidelCafe",
+  "type": "flat white",
+  "milk": "trim milk",
+  "sugar": 23,
+  "name": "Jeremy",
+  "phone": "021 225 555",
+  "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
+}
+```
+---
+
 ### Customer-side
 
 Coffee type: Flat white / Long Black / Latte
@@ -36,13 +53,3 @@ sugar: [
   '3 sugar'
   ]
 ```
-
-"order": {
-  "shop": "fidelCafe",
-  "type": "flat white",
-  "milk": "trim milk",
-  "sugar": 23,
-  "name": "Jonathan",
-  "phone": "021 225 555",
-  "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
-}
