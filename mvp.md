@@ -3,7 +3,7 @@ MVP
 
 ### Customer-side
 
-Flat white / Long Black/ Latte
+Flat white / Long Black / Latte
 
 Full Milk (default) / Trim Milk / Soy Milk
 
