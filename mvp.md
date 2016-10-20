@@ -10,16 +10,16 @@ Data for phase 1 to be sent and received in the following structure.
   "shop": "fidelCafe",
   "coffees": [
     {
-    "type": "flat white",
-    "qty": 1,
-    "milk": "trim milk",
-    "sugar": 1
+      "type": "flat white",
+      "qty": 1,
+      "milk": "trim milk",
+      "sugar": 1
     },
     {
-    "type": "americano",
-    "qty": 2,
-    "milk": "soy",
-    "sugar": 0
+      "type": "americano",
+      "qty": 2,
+      "milk": "soy",
+      "sugar": 0
     }    
   ],
   "totalprice": 6.00,
