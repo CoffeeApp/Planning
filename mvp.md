@@ -36,3 +36,13 @@ sugar: [
   '3 sugar'
   ]
 ```
+
+"order": {
+  "shop": "fidelCafe",
+  "type": "flat white",
+  "milk": "trim milk",
+  "sugar": 23,
+  "name": "Jonathan",
+  "phone": "021 225 555",
+  "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
+}
