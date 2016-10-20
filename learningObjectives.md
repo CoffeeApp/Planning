@@ -1,4 +1,4 @@
-Learning Objectives (Not in order)  
+Learning Objectives
 -------------------
 
 ### Thomas's Objectives
