@@ -22,11 +22,11 @@ Data for phase 1 to be sent and received in the following structure.
       "sugar": 0
     }    
   ],
-  details: {
-  "price": 6.00,
-  "name": "Jeremy",
-  "phone": "021 225 555",
-  "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
+  "details": {
+    "price": 6.00,
+    "name": "Jeremy",
+    "phone": "021 225 555",
+    "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
   }
 }
 ```
@@ -79,11 +79,11 @@ Prepare to receive, send and store coffee orders in the following data structure
       "sugar": 0
     }    
   ],
-  details: {
-  "price": 6.00,
-  "name": "Jeremy",
-  "phone": "021 225 555",
-  "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
+   "details": {
+    "price": 6.00,
+    "name": "Jeremy",
+    "phone": "021 225 555",
+    "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
   }
 }
 ```
