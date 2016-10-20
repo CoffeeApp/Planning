@@ -1,7 +1,7 @@
 User Stories
 ------------
 
-## Customer-side
+### Customer-side
 
  * As a customer I want to see nearby cafes where I can get a coffee
  * As a customer I want to be able to prepare a detailed coffee order and:
@@ -16,8 +16,8 @@ User Stories
     * offered directions to get to said business.
     * to see a timer with how long it will be until my coffee order is ready for collection.
     
-## Business-side
+### Business-side
 
 
 
-## API/ Database
+### API/ Database
