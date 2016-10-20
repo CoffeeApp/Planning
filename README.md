@@ -1,4 +1,4 @@
-# Customer-side
+# coffeeApp
 
 Planning
 
