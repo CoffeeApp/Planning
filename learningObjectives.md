@@ -2,41 +2,65 @@ Learning Objectives (Not in order)
 -------------------
 
 ### Thomas's Objectives
-* Bullet point
-* **Bold**
-* 
+* Group Dynamics
+* React
+* Redux
+* Process
+* CSS
+* Wit.ai (STRETCH)
 
 ### Lisa's Objectives
-* Bullet point
-* **Bold**
-* 
+* React
+* Redux
+* React router
+* Planning
+* Keeping job assignment agreements
+* Clarity
 
 ### Martin's Objectives
-* Bullet point
-* **Bold**
-* 
+* React
+* CSS/design
+* React Native
 
 ### Peter's Objectives
-* Bullet point
-* **Bold**
-* 
+* Fun! (oh peter, how I laugh)
+* Feathers JS
+* Databases
+* Testing
+* React
+* Redux
+* APIs
+* Pairing
 
 ### Ben's Objectives
-* Bullet point
-* **Bold**
-* 
+* Database table(s) structure
+* Data migration
+* Feathers JS
+* Socket.io
+* React
+* CSS
 
 ### Hikurangi's Objectives
-* Bullet point
-* **Bold**
-* 
+* React
+* Redux
+* React router
+* Authentication
+* Sockets.io
+* React Native
+* Map Geolocation (google maps?)
+* APIs
+* Databases
 
 ### George's Objectives
-* Bullet point
-* **Bold**
-* 
+* Group Management/Dynamics
+* React
+* Google Maps
+* CSS
 
 ### Jock's Objectives
-* Bullet point
-* **Bold**
-* 
+* React
+* Gherkin
+* Promises
+* Teamwork
+* Productivity
+* Enjoyment!
