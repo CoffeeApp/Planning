@@ -8,18 +8,27 @@ Project overview, user stories, learning objectives...
 
 coffeeApp is inspired by and built for all coffee loving Wellingtonians. coffeeApp uses geolocation to show customers nearby coffee providers, show user ratings and process online orders. coffeeApp also offers a business-side application to display and manage online orders processed through the app.
 
-coffeeApp manages orders only but not payments.
+coffeeApp manages orders only and does not process payments.
+
+coffeeApp works from 3 seperate apps:
+
+customer-side: Martin, Hikurangi, George, Jock
+shop-side: Lisa, Thomas
+Api/ DB: Ben, Peter
 
 App link:
 
-You can find the currently deployed app at ????
+You can find each deployed app at:
+
+customer-side: 
+shop-side: 
+Api/ DB: 
 
 ### Github workflow
 
 Master always has passing tests.
-Pull requests approved by <name>
+Pull requests approved by Scrum master.
 Features should be built on branches and the merged via pull request.
-Team Roles / Accountabilities
 
 ### Scrum master will: 
 
