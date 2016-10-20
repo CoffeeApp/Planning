@@ -30,22 +30,8 @@ Master always has passing tests.
 Pull requests approved by Scrum master.
 Features should be built on branches and the merged via pull request.
 
-### Scrum master will: 
-
-Organise and enforce mandatory fun times at 3pm.
-Approve pull requests.
-Available to swarm.
-Does agile tasks.
-Project manages.
-Typical Day Plan
-
-Hours are 9-9 until we hit MVP and then we can review.
-Retrospective in morning.
-11:50 standup
-Lunch from 12-1.
-Mandatory fun at 3.
-6pm standup
-9pm guilt free home time.
+### Scrum master
+See "teamRules.md"
 
 [Learning Objectives](learningObjectives.md)
 ---------------------
