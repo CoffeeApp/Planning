@@ -60,7 +60,7 @@ For each order
 
 ### API Database
 
-Prepare to reci
+Prepare to receive, send and store coffee orders in the following data structure.
 
 ```js
 "order": {
