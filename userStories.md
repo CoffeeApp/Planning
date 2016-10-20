@@ -16,8 +16,8 @@ User Stories
     * offered directions to get to said business.
     * to see a timer with how long it will be until my coffee order is ready for collection.
     
-### Business-side
+### Shop-side
 
-
+  * As a shop I want to see my coffee orders
 
 ### API/ Database
