@@ -49,3 +49,6 @@ Mandatory fun at 3.
 
 [User Stories](userStories.md)
 ------------  
+
+[Technologies](technologies.md)
+---------------------
