@@ -17,17 +17,17 @@ Data for phase 1 to be sent and received in the following structure.
   "shop_id": 234,
   "coffees": [
     {
-      "coffee_id": 1,
+      "type": "flat white",
       "qty": 1,
-      "milk": 2,
+      "milk": "trim",
       "sugar": 1
     },
     {
-      "coffee_id": "2",
+      "type": "americano",
       "qty": 2,
-      "milk": 3,
+      "milk": "soy",
       "sugar": 0
-    }    
+    }  
   ],
   "details": {
     "price": 6.00,
