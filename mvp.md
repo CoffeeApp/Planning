@@ -8,9 +8,21 @@ Data for phase 1 to be sent and received in the following structure.
 ```js
 "order": {
   "shop": "fidelCafe",
-  "type": "flat white",
-  "milk": "trim milk",
-  "sugar": 23,
+  "coffees": [
+    {
+    "type": "flat white",
+    "qty": 1,
+    "milk": "trim milk",
+    "sugar": 1
+    },
+    {
+    "type": "americano",
+    "qty": 2,
+    "milk: "soy",
+    "sugar: 0
+    }    
+  ],
+  "totalprice": 6.00,
   "name": "Jeremy",
   "phone": "021 225 555",
   "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
