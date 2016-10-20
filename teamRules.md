@@ -8,7 +8,7 @@
 ### 9.30AM 
 Get to Work
 
-### 11.50AM
+### 11.45AM
 Have all teams come together with a progress report
 
 ### 12PM - 1PM
