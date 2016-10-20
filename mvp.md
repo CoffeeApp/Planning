@@ -4,21 +4,28 @@ MVP
 ### Phase 1 Objective - send one coffee order from customer to shop via api database
 
 Data for phase 1 to be sent and received in the following structure.
-
 ```js
 "order": {
-  "shop": "Fidel's Cafe",
+  "name": "Jonathan",
+  "phone": "021 098 2763",
+  "comment": "no sugar"
+}
+```
+```js
+"order": {
+  "order_id": 1,
+  "shop_id": 234,
   "coffees": [
     {
-      "type": "flat white",
+      "coffee_id": 1,
       "qty": 1,
-      "milk": "trim",
+      "milk": 2,
       "sugar": 1
     },
     {
-      "type": "americano",
+      "coffee_id": "2",
       "qty": 2,
-      "milk": "soy",
+      "milk": 3,
       "sugar": 0
     }    
   ],
