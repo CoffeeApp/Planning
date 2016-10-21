@@ -21,17 +21,14 @@ Api/ DB: Ben, Peter
 You can find each deployed app at:
 
 * customer-side: 
-
 * shop-side:
-
 * api/ DB:
-
 
 ### Github workflow
 
-Master always has passing tests.
-Pull requests approved by Scrum master.
-Features should be built on branches and the merged via pull request.
+* Master always has passing tests.
+* Pull requests approved by Scrum master.
+* Features should be built on branches and the merged via pull request.
 
 ### Scrum master
 See "teamRules.md"
