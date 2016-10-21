@@ -3,7 +3,7 @@ Stages of Development
 
 ### MVP
 
-Establish sockets connections to allow us to send data from customer to shop.
+Establish sockets connections to allow customer and shop to send data to each other.
 
 ___
 
