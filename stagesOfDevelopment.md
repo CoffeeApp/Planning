@@ -86,9 +86,9 @@ Have some form of google maps api working in the app.
 
 ___
 
-### Release ? ideas
+### Release 3 & 4 ideas
 
-Target Deadline - EOD Tuesday
+Target Deadline - EOD Monday & EOD Tuesday respectively.
 
 Customers can filter nearby shops by price, distance & rating. User can also get directions from google maps api to chosen business.
 
