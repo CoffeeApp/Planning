@@ -1,7 +1,7 @@
 Stages of Development
 ===
 
-### MVP
+### MVP - Complete
 
 ~~Establish sockets connections to allow customer and shop to send data to each other.~~
 
