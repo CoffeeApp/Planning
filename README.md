@@ -22,7 +22,7 @@ You can find each deployed app at:
 
 * customer-side: 
 * shop-side:
-* api/ DB:
+* api/ DB: https://coffee-cloud.herokuapp.com/dumb-orders
 
 ### Github workflow
 
