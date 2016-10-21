@@ -31,7 +31,6 @@ You can find each deployed app at:
 * Features should be built on branches and the merged via pull request.
 
 # Team Structure
-===
 
 [Learning Objectives](learningObjectives.md)
 ---------------------
@@ -40,7 +39,6 @@ You can find each deployed app at:
 ------------
 
 # Project Structure
-===
 
 [Stages Of Development](stagesOfDevelopment.md)
 ---------------------
