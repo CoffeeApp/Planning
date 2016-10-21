@@ -18,6 +18,11 @@ User Stories
     
 ### Shop-side
 
-  * As a shop I want to be able to see my current coffee orders.
+  * As a shop I want to receive orders from customers in real time.
+  * As a shop I want to be able to clearly see individual items and specifications on each order.
+  * As a shop I want to be able to see name, phone number and total price for each individual order.
+  * As a shop I want to have a START button to start a timer when I begin making the order.
+  * As a shop I want to have a FINISH button to be able to discard/archive orders once they are complete.
+  * As a shop I want to be able to see a numerical value representing the total number or orders I currently have.
 
 ### API/ Database
