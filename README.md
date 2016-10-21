@@ -43,7 +43,7 @@ You can find each deployed app at:
 [Stages Of Development](stagesOfDevelopment.md)
 ---------------------
 
-[User Stories](userStories.md)
+[Job Stories](jobStories.md)
 ------------  
 
 [Technologies](technologies.md)
