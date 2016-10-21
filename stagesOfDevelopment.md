@@ -3,13 +3,32 @@ Stages of Development
 
 ### MVP
 
-Establish sockets connections to allow customer and shop to send data to each other. [x]
+~~Establish sockets connections to allow customer and shop to send data to each other.
 
 ___
 
-### Phase 1 Objective - send one coffee order from customer to shop via api database
+### Release 1
 
-Data for phase 1 to be sent and received in the following structure.
+Target Deadline - E.O.D Saturday
+
+#### customer side to be able to send one full coffee order (including multiple coffees with different specs) to single shop via api database: Details to include:
+
+For each coffee
+
+* coffee type
+* milk (only if not full milk)
+* sugar (if not 0)
+
+For each order
+
+* time order placed
+* name
+* phone
+* price
+
+#### shop side to be able to receive and display one full coffee order (including multiple coffees with different specs) from a single user via api database: Details to include:
+
+Data object to be sent and received in the following structure.
 ```js
 "order": {
   "name": "Jonathan",
@@ -44,59 +63,49 @@ Data for phase 1 to be sent and received in the following structure.
 }
 ```
 
-### Customer-side
+* shop-side to be able update order status and start countdown timer when start making coffee order.
 
-Coffee type: Flat white / Long Black / Latte
+* customer-side to be able see countdown timer when shop-side updates order status.
+___
 
-Milk: Full Milk (default) / Trim Milk / Soy Milk
+### Release 2
 
-Sugar: 0 sugar (default) / 1 sugar / 2 sugar / 3 sugar
+Target Deadline - EOD Sunday
 
-Need name and phone number (must provide both) and have a datestamp for time order was placed.
+User can prepare coffee order and view prices, distance and user rating for a minimum of 5 nearby shops inlcuding:
 
-### Business-side
+* Southern Cross
+* Laundry
+* Fidel's Cafe
+* Emporio Coffee
+* Raglan roast 
 
-Display:
+User can select one of the available coffee shops to order from and send order to that particular user at business end.
 
-For each coffee
+Have some form of google maps api working in the app.
 
-* coffee type
-* milk (only if not full milk)
-* sugar (if not 0)
+___
 
-For each order
+### Release ? ideas
 
-* time order placed
-* name
-* phone
-* price
+Target Deadline - EOD Tuesday
 
-### API Database
+Customers can filter nearby shops by price, distance & rating. User can also get directions from google maps api to chosen business.
 
-Prepare to receive, send and store coffee orders in the following data structure.
+Customer can edit and cancel order if coffee order is not yet being made.
 
-```js
-"order": {
-  "shop": "Fidel's Cafe",
-  "coffees": [
-    {
-      "type": "flat white",
-      "qty": 1,
-      "milk": "trim",
-      "sugar": 1
-    },
-    {
-      "type": "americano",
-      "qty": 2,
-      "milk": "soy",
-      "sugar": 0
-    }    
-  ],
-   "details": {
-    "price": 6.00,
-    "name": "Jeremy",
-    "phone": "021 225 555",
-    "ordered": "Fri Oct 21 2016 10:39:50 GMT+1300 (NZDT)"
-  }
-}
-```
+Customer can submit feedback/ rating on their coffee order after consumption.
+
+AI element in voice activation, mini game etc.
+
+More ideas please......
+
+## ALL SUBTEAMS AIM TO BE FINISHED BACKLOG BY E.O.D TUESDAY. This leaves all day Wednesday for all teams to:
+
+* help other teams that may not have hit this deadline.
+* user testing
+* debugging
+* refactor code so it looks as delicious as possible.
+* Polish css / logo design / UI / UX
+* Fully understand how the entire app works.
+* Business feedback/ endorsements we can use on pitch day.
