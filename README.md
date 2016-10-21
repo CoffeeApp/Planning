@@ -21,8 +21,11 @@ Api/ DB: Ben, Peter
 You can find each deployed app at:
 
 customer-side: 
-shop-side: 
-Api/ DB: 
+
+shop-side:
+
+Api/ DB:
+
 
 ### Github workflow
 
