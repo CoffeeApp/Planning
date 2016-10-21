@@ -30,7 +30,8 @@ You can find each deployed app at:
 * Pull requests approved by Scrum master.
 * Features should be built on branches and the merged via pull request.
 
-### _Team Structure_
+### Team Structure
+==================
 
 [Learning Objectives](learningObjectives.md)
 ---------------------
@@ -38,7 +39,8 @@ You can find each deployed app at:
 [Team Rules](teamRules.md)
 ------------
 
-### _Project Structure_
+### Project Structure
+=====================
 
 [Stages Of Development](stagesOfDevelopment.md)
 ---------------------
