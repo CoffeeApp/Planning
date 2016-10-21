@@ -42,7 +42,7 @@ See "teamRules.md"
 [Technologies](technologies.md)
 ---------------------
 
-[MVP](mvp.md)
+[Stages Of Development](stagesOfDevelopment.md)
 ---------------------
 
 [Wireframes](wireframes.md)
