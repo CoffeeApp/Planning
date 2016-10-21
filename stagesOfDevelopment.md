@@ -5,6 +5,8 @@ Stages of Development
 
 Establish sockets connections to allow us to send data from customer to shop.
 
+___
+
 ### Phase 1 Objective - send one coffee order from customer to shop via api database
 
 Data for phase 1 to be sent and received in the following structure.
